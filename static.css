@@ -1,0 +1,131 @@
+body {
+    background-color: rgb(1, 1, 24);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.header {
+    display: flex;
+    background-color: rgb(1, 1, 22);
+
+}
+
+.main {
+    width: 200px;
+    height: 100px;
+}
+
+.links {
+    display: flex;
+    padding-left: 250px;
+    gap: 20px;
+    text-align: center;
+    padding-top: 20px;
+    list-style: none;
+    font-size: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn {
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 180px;
+    border: none;
+    background-color: rgb(218, 6, 218);
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.mainsection {
+    width: 100%;
+}
+
+.aboutpage {
+    margin-top: 30px;
+}
+
+.abouttext {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+.note {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
+.abouttechconnect {
+    width: 100%;
+    height: 500px;
+}
+
+.speakers {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.images {
+    width: 200px;
+    height: 200px;
+}
+
+.speakername {
+    font-size: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.speakerskill {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: white;
+}
+
+.attend {
+    background-color: rgb(73, 5, 133);
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.inpt {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    padding-right: 70px;
+    padding-left: 10px;
+    margin-top: 10px;
+    gap: 5px;
+    border-radius: 10px;
+}
+
+.Submitreg {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    padding-right: 70px;
+    padding-left: 70px;
+    margin-top: 10px;
+    border-radius: 10px;
+    color: white;
+    background-color:  rgb(130, 50, 201) ;
+}
+.network {
+    margin-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.secondlinks {
+    padding-bottom: 20px;
+}
+.final {
+    margin-left: 20px;
+}
